@@ -1,2 +1,3 @@
 name: HU Zuying, Collin HU
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
